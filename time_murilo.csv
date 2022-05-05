@@ -1,0 +1,7 @@
+,id,nome,tipo1,tipo2,peso,altura,imagem
+0,60,poliwag,water,,124,6,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png
+1,100,voltorb,electric,,104,5,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png
+2,133,eevee,normal,,65,3,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png
+3,97,hypno,psychic,,756,16,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png
+4,80,slowbro,water,psychic,785,16,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png
+5,55,golduck,water,,766,17,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png
